@@ -23,9 +23,11 @@
 
 CS @ NJIT. Research + engineering in Applied AI.
 
-Applied AI Research Engineer Intern @ **AIM Lab** 
+Prev.  **SWE Intern @ PGIM Global Asset Management** · Summer 2026
 
-Incoming **SWE Intern @ PGIM Global Asset Management** · Summer 2026
+Prev. Applied AI Research Engineer Intern @ **AIM Lab** 
+
+
 
 <br/>
 
